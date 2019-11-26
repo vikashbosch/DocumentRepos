@@ -1,0 +1,9 @@
+1) Why overloading is compile time.----d
+2) why overriding is run time.-----d
+3) dynamic polymorphism.------d
+4) static polymorphism.-----d
+5) real time example of polymorphism.
+6) where you used polymorphish in your project.
+7) exception program in polymorphism.
+8) real time example of oops.
+9) where you used oops in your project.

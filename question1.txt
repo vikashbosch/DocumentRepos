@@ -1,0 +1,34 @@
+what is collision------
+microservices , Spring boot
+https://spring.io/blog/2013/08/06/spring-boot-simplifying-spring-for-everyone
+https://dzone.com/articles/why-springboot
+https://www.youtube.com/watch?v=99Nw2smMTLg
+
+Why  java supported multilevel and why not supported multiple{ not supported because it leads to deadly diamond problem}
+In Abstraction what is hidings
+Array index of bound
+How to generate hashcode-------
+executor in thread in java
+Detach to trengent in hibernate
+Trigent and volatile
+Method level synchronized
+Block level synchronized
+spring and web services integration
+spring restful web services example step by step-
+-https://dzone.com/articles/build-rest-web-service-using-spring
+spring mvc flow end to end
+https://www.java4s.com/spring-mvc/spring-mvc-execution-flow-diagram-spring-mvc-3-2-flow/
+http://www.javainterviewpoint.com/spring-mvc-flow-diagram/
+https://www.journaldev.com/14476/spring-mvc-example
+https://dzone.com/articles/spring-mvc-example-for-user-registration-and-login-1
+solve Consumer Producer problem by using wait() and notify() methods, where consumer can consume only when production is over.
+http://www.javamadesoeasy.com/2015/03/solve-consumer-producer-problem-by_2.html
+
+http://codepumpkin.com/producer-consumer-using-wait-notify/
+https://javarevisited.blogspot.com/2015/07/how-to-use-wait-notify-and-notifyall-in.html
+
+how executor framework works internally in java
+Design pattern
+Load factor in hashmap------
+Second level cache
+
